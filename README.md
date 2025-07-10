@@ -55,7 +55,7 @@ Responsive design with clean layout.
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/rahul-garg-b176482b0)
 - [GitHub](https://github.com/thegladiator288)
 
 ---
